@@ -1,0 +1,6 @@
+{
+  "name": "نور | تلاوات، دروس وأذكار",
+  "description": "تطبيق صوتي إسلامي عصري للاستماع إلى تلاوات القرآن الكريم، الدروس والمحاضرات، الأذكار اليومية والسبحة الإلكترونية مع دعم التحميل والاستماع دون إنترنت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
